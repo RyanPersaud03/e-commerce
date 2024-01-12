@@ -23,5 +23,5 @@
 ## Questions
     N/A
 
-Link to Demo Video: https://drive.google.com/file/d/1hK0h1fVg9tTfvz7ddfNkwosYGtxzbLh0/view
-GitHub Repo: https://github.com/RyanPersaud03/e-commerce
+Link to Demo Video: https://drive.google.com/file/d/1ApSF5-MTPZhBDLa4ObYhGwqdC3xPJkl6/view
+GitHub Repo: https://github.com/RyanPersaud03/e-commerce 
